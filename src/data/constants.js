@@ -387,6 +387,28 @@ export const projects = [
     github: "https://github.com/atizaz786/netflix-gpt", 
     webapp: "Live Link URL", // Please replace "Live Link URL" with the actual URL to the live project
   },
+  {
+    id: 4,
+    title: "PLURA AI SaaS AI Builder",
+    date: "Jan 2024 - Present",
+    description: "This project is a robust SaaS platform designed to enable users to build and manage AI models effortlessly. It features an intuitive drag-and-drop interface for creating AI workflows, extensive analytics for performance tracking, and integration with multiple AI services for enhanced capabilities.",
+    image: "https://i.ibb.co/61wKPB1/Plura.png", // Replace with actual URL to the project image
+    tags: ["React", "Node.js", "TensorFlow", "MongoDB", "Express", "Vercel"],
+    category: "web app",
+    github: "https://github.com/atizaz786/plura-ai",
+    webapp: "https://plura-ai.example.com/", // Replace with actual URL
+  },
+  {
+    id: 5,
+    title: "Apple iPhone 15 Pro Website Clone",
+    date: "Feb 2024",
+    description: "A highly detailed clone of the Apple iPhone 15 Pro's website, showcasing 3D rendering with Three.js and rich animations using GSAP. Built using React and Tailwind CSS, deployed via Vercel, this project aims to replicate the user experience and visual appeal of the official site.",
+    image: "https://i.ibb.co/DC8ws3Q/apple.png", // Replace with actual URL to the project image
+    tags: ["React", "Tailwind CSS", "GSAP", "Three.js", "Vercel"],
+    category: "web app",
+    github: "https://github.com/atizaz786/iphone-15-pro-clone",
+    webapp: "https://iphone15proclone.example.com/", // Replace with actual URL
+  }
   // {
   //   id: 0,
   //   title: "Podstream",
